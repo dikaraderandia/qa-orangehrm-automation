@@ -1,0 +1,8 @@
+{
+  
+    "validEmployeeName": "Peter",
+    "invalidEmployeeName": "P123dsadter",
+    "validJobTitle": "Chief Financial Officer",
+    "validLocation": "New York Sales Office"
+  
+}
